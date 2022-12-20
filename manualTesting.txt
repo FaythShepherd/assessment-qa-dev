@@ -1,0 +1,18 @@
+MY PLAN
+-bots exist
+-bots select
+-bots fight
+Completion
+-fully function
+
+DUO BUGS
+Case- pick winning team
+Result- Wins tick up loss counter
+Case- clikced the see all button
+Result- 400 error
+Case- picked losing team
+Result- losing team was picked
+Case-select and deselct
+Result- worked as it should
+Case- restart
+Result- headers appeared
